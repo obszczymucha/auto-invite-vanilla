@@ -1,0 +1,15 @@
+## Interface: 11200
+## Title: |cff209ff9Auto Invite|r
+## Author: Obszczymucha
+## Version: 1.1
+## Notes: Manages auto-invites.
+## SavedVariables: AutoInviteDb
+## SavedVariablesPerCharacter: AutoInviteCharDb
+
+facade.lua
+event_handler.lua
+minimap_button.lua
+shitlist.lua
+response.lua
+main.lua
+
