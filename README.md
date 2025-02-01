@@ -21,3 +21,7 @@ For example:
 /ai 69
 ```
 
+## Shitlist usage
+
+Type `/shitlist` for help.
+
